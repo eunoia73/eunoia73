@@ -1,13 +1,13 @@
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
+<h3 align="left">Most Used Languages</h3>
+<p align="left">
   <a href="https://github.com/eunoia73">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia73&layout=compact&hide=css,scss" />
   </a>
 </p>
 
 
-
-<div align="center" style="text-align:center">
+<h3 align="left">Velog</h3>
+<div align="left" style="text-align:center">
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eunoia73&color=dark)](https://github.com/eunoia73/velog-readme-stats)
   
