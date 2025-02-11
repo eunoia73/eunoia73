@@ -1,3 +1,18 @@
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/eunoia73">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunoia73&layout=compact&hide=css,scss" />
+  </a>
+</p>
+
+
+
+<div align="center" style="text-align:center">
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eunoia73&color=dark)](https://github.com/eunoia73/velog-readme-stats)
+  
+</div>
+
 
 ### Skill
 <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" /> <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=spring Boot&logoColor=#6DB33F" />
