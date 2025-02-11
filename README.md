@@ -8,9 +8,11 @@
 
 <h3 align="left">Velog</h3>
 <div align="left" style="text-align:center">
+<a href="https://velog.io/@eunoia73/post>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eunoia73&color=dark)](https://github.com/eunoia73/velog-readme-stats)
-  
+
+</a>
 </div>
 
 
