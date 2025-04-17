@@ -8,7 +8,7 @@
 
 ### ⚙️ Skill
 
-<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=#6DB33F" />  <img src="https://img.shields.io/badge/jsp-20232a.svg?style=for-the-badge&logo=jsp&logoColor=#6DB33F" /> <img src="https://img.shields.io/badge/jpa-20232a.svg?style=for-the-badge&logo=jpa&logoColor=#6DB33F" /> <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" /> <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=spring Boot&logoColor=#6DB33F" /> <img src="https://img.shields.io/badge/springsecurity-20232a.svg?style=for-the-badge&logo=springsecurity&logoColor=#6DB33F" />
+<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=#6DB33F" />  <img src="https://img.shields.io/badge/jsp-20232a.svg?style=for-the-badge&logo=jsp&logoColor=#6DB33F" /> <img src="https://img.shields.io/badge/jpa-20232a.svg?style=for-the-badge&logo=jpa&logoColor=#6DB33F" /> <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />  <img src="https://img.shields.io/badge/springsecurity-20232a.svg?style=for-the-badge&logo=springsecurity&logoColor=#6DB33F" />
 <br>
 <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=#E34F26" /> <img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=#1572B6" /> <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />  <img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=#A8B9CC" />
 
